@@ -1,0 +1,20 @@
+<svg width="46" height="43" viewBox="0 0 46 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="46" height="43" fill="#F2F2F2" />
+    <g id="Log in">
+        <rect width="1920" height="1080" transform="translate(-139.3 -52.2)" fill="black" />
+        <g id="Header">
+            <g id="Company_logo">
+                <g id="logo">
+                    <path id="Shape-3" fill-rule="evenodd" clip-rule="evenodd"
+                        d="M0.699921 23.848V42.648H17.1239V39.988L0.699921 23.848Z" fill="#326CF9" />
+                    <path id="Shape-4" fill-rule="evenodd" clip-rule="evenodd"
+                        d="M29.3909 42.652H45.8129V23.8521L29.3949 39.993L29.3909 42.652Z"
+                        fill="#326CF9" />
+                    <path id="Shape-5" fill-rule="evenodd" clip-rule="evenodd"
+                        d="M45.8149 0.644051L23.3049 22.7711L0.699921 0.550049V19.6701L23.3049 41.8911L45.8109 19.7681L45.8149 0.644051Z"
+                        fill="#326CF9" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
