@@ -51,10 +51,6 @@
     color: white;
 }
 
-.login-signup-form .row button:nth-child(2) {
-    margin: 0;
-}
-
 .login-signup-form .row button:nth-child(1) {
     margin: 0 auto;
 }
