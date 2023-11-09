@@ -1,0 +1,65 @@
+/* form login-signup */
+.login-signup-form {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    margin-top: 1rem;
+
+    width: 66%;
+}
+
+.login-signup-form .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    margin-top: 4rem;
+}
+
+.login-signup-form input {
+    color: white;
+    font-size: 1.4375rem;
+
+    background: inherit;
+
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+
+    border: none;
+}
+
+.login-signup-form label {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    /* изменяет вид курсора на кликабельный */
+    cursor: text;
+
+    border-bottom: 2px solid gray;
+
+    width: 40%;
+
+    padding: 1rem;
+    padding-left: 0;
+}
+
+.login-signup-form input::placeholder {
+    color: white;
+}
+
+.login-signup-form .row button:nth-child(2) {
+    margin: 0;
+}
+
+.login-signup-form .row button:nth-child(1) {
+    margin: 0 auto;
+}
+
+.login-signup-form .row button {
+    font-size: 1.625rem;
+    width: 40%;
+}
